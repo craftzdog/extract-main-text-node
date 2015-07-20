@@ -1,0 +1,23 @@
+{
+  "name": "extract-main-text",
+  "version": "1.0.0",
+  "description": "Automatically grab the main text out of a webpage",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "mocha --harmony"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^2.2.5",
+    "should": "^7.0.2"
+  },
+  "dependencies": {
+    "charset": "^1.0.0",
+    "html-entities": "^1.1.3",
+    "iconv-lite": "^0.4.11",
+    "jschardet": "^1.3.0",
+    "lodash": "^3.10.0",
+    "request": "^2.58.0"
+  }
+}
