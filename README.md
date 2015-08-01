@@ -3,6 +3,12 @@ extract-main-text-node
 
 Ported from [mono0x/extractcontent](https://github.com/mono0x/extractcontent).
 
+## Installing
+
+```
+npm install extract-main-text-node
+```
+
 ## Usage
 
 ```JavaScript
