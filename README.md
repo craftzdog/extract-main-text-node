@@ -6,7 +6,7 @@ Ported from [mono0x/extractcontent](https://github.com/mono0x/extractcontent).
 ## Installing
 
 ```
-npm install extract-main-text-node
+npm install extract-main-text
 ```
 
 ## Usage
