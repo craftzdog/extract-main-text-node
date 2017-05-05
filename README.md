@@ -19,7 +19,7 @@ var extractor = new BodyExtractor({
 extractor.analyze()
   .then(function(text) {
     console.log(extractor.title);
-    console.log(extractor.bodmainText);
+    console.log(extractor.mainText);
   });
 ```
 
