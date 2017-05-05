@@ -7,7 +7,7 @@
     "test": "mocha --harmony"
   },
   "author": "",
-  "license": "MIT",
+  "license": "BSD",
   "devDependencies": {
     "mocha": "^2.2.5",
     "should": "^7.0.2"
