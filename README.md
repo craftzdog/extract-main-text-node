@@ -1,3 +1,5 @@
+[![CircleCI](https://circleci.com/gh/craftzdog/extract-main-text-node.svg?style=svg)](https://circleci.com/gh/craftzdog/extract-main-text-node)
+
 extract-main-text-node
 ======================
 
