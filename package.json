@@ -1,6 +1,6 @@
 {
   "name": "extract-main-text",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Automatically grab the main text out of a webpage",
   "main": "lib/index.js",
   "scripts": {
