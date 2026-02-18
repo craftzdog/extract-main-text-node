@@ -4,16 +4,17 @@
   "description": "Automatically grab the main text out of a webpage",
   "main": "lib/index.js",
   "scripts": {
-    "test": "mocha --harmony"
+    "test": "mocha --harmony",
+    "lint": "eslint ."
   },
   "author": "",
   "license": "BSD",
   "devDependencies": {
-    "eslint": "^5.12.0",
-    "eslint-config-prettier": "^3.3.0",
-    "eslint-plugin-prettier": "^3.0.1",
-    "mocha": "^5.2.0",
-    "prettier": "^1.15.3",
+    "eslint": "^9.0.0",
+    "eslint-config-prettier": "^10.0.0",
+    "eslint-plugin-prettier": "^5.0.0",
+    "mocha": "~11.3.0",
+    "prettier": "^3.8.1",
     "should": "^13.2.3"
   },
   "dependencies": {
@@ -22,7 +23,11 @@
     "iconv-lite": "^0.4.24",
     "jschardet": "^1.6.0",
     "lodash.defaults": "^4.2.0",
-    "lodash.merge": "^4.6.1",
-    "request": "^2.88.0"
+    "lodash.merge": "^4.6.1"
+  },
+  "prettier": {
+    "trailingComma": "none",
+    "singleQuote": true,
+    "semi": false
   }
 }

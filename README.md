@@ -1,7 +1,6 @@
-[![CircleCI](https://circleci.com/gh/craftzdog/extract-main-text-node.svg?style=svg)](https://circleci.com/gh/craftzdog/extract-main-text-node)
+[![CI](https://github.com/craftzdog/extract-main-text-node/actions/workflows/ci.yml/badge.svg)](https://github.com/craftzdog/extract-main-text-node/actions/workflows/ci.yml)
 
-extract-main-text-node
-======================
+# extract-main-text-node
 
 Ported from [mono0x/extractcontent](https://github.com/mono0x/extractcontent).
 
@@ -28,4 +27,3 @@ extractor.analyze()
 ## License
 
 The BSD license
-
