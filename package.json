@@ -7,7 +7,7 @@
     "test": "mocha --harmony",
     "lint": "eslint ."
   },
-  "author": "",
+  "author": "Takuya Matsuyama<hi@craftz.dog>",
   "license": "BSD",
   "devDependencies": {
     "eslint": "^9.0.0",
