@@ -4,7 +4,7 @@
   "description": "Automatically grab the main text out of a webpage",
   "main": "lib/index.js",
   "scripts": {
-    "test": "mocha --harmony",
+    "test": "jest",
     "lint": "eslint ."
   },
   "author": "Takuya Matsuyama<hi@craftz.dog>",
@@ -13,9 +13,8 @@
     "eslint": "^9.0.0",
     "eslint-config-prettier": "^10.0.0",
     "eslint-plugin-prettier": "^5.0.0",
-    "mocha": "^11.7.5",
-    "prettier": "^3.8.1",
-    "should": "^13.2.3"
+    "jest": "^30.0.0",
+    "prettier": "^3.8.1"
   },
   "dependencies": {
     "charset": "^1.0.1",
